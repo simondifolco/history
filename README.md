@@ -4,10 +4,11 @@
 
 ### 🛤 Le Parcours (Restauré)
 Ce dépôt est une archive de ma progression. J'ai fait table rase de mes anciens repos, mais pas de mon expérience. 
-- **2021** : Le premier `hello world`.
+- **2021** : Le premier `hello world`, après avoir exploité **WordPress** jusqu'à ses retranchements.
 - **2022** : Dompter le chaos de **JavaScript**.
-- **2023** : Construire avec **React**.
-- **2024-2025** : L'ère de l'**Agentic Economy** (Next.js + Convex + OpenClaw).
+- **2023** : Construire avec **React** et l'architecture **Next.js**.
+- **2025** : Découvrir **Convex** et la programmation assistée par **IA**.
+- **2026** : L'ère de l'**Agentic Economy**.
 
 ### 💡 La Vérité
 Le graphe de contribution est une feature fun, mais c'est une distraction. 
