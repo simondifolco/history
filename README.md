@@ -2,7 +2,7 @@
 
 > "La qualité d'un développeur ne se mesure pas à l'intensité de son vert, mais à la pertinence de ses commits."
 
-### 🛤 Le Parcours (Restauré)
+### 🛤 Le Parcours
 Ce dépôt est une archive de ma progression. J'ai fait table rase de mes anciens repos, mais pas de mon expérience. 
 - **2021** : Le premier `hello world`, après avoir exploité **WordPress** jusqu'à ses retranchements.
 - **2022** : Dompter le chaos de **JavaScript**.
